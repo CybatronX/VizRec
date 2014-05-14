@@ -1,0 +1,23 @@
+1D 1M,1,Normal,High,Short,,,,Bar,Bar,2
+1D 2M,1,Normal,High,Short,,,,Scatter,Scatter,4
+1D 2M,1,Normal,High,Short,,,,Scatter,Scatter,4
+1D 3M,1,Normal,High,Short,,,,Scatter,Scatter,4
+1D 3M,1,Normal,High,Short,,,,Scatter,Scatter,4
+2D 1M,2,Normal,High,Short,Normal,High,Short,Stacked Bar,Stacked Bar,-2
+2D 1M,2,Normal,High,Short,Normal,Low,Short,Stacked Bar,Stacked Bar,6
+2D 1M,2,Normal,High,Short,Normal,Medium,Short,Stacked Bar,Stacked Bar,4
+2D 2M,2,Normal,High,Short,Normal,High,Short,Scatter,Scatter,0
+2D 2M,2,Normal,High,Short,Normal,Low,Short,Scatter,Scatter,8
+2D 2M,2,Normal,High,Short,Normal,Medium,Short,Scatter,Scatter,6
+1D 1M,1,Trend,High,Short,,,,Line,Line,6
+1D 1M,1,Trend,Low,Short,,,,Line,Line,0
+1D 2M,1,Trend,High,Short,,,,Line,Line,6
+1D 2M,1,Trend,Low,Short,,,,Scatter,Scatter,0
+2D 1M,2,Trend,Low,Short,Geo,Low,Short,Map,Map,6
+2D 1M,2,Trend,High,Short,Geo,Low,Short,Line,Line,10
+2D 1M,2,Trend,High,Short,Geo,High,Short,Line,Line,2
+2D 1M,2,Trend,Low,Short,Geo,High,Short,Map,Map,6
+2D 1M,2,Trend,Low,Short,Normal,High,Short,Stacked Bar,Stacked Bar,2
+2D 1M,2,Trend,Low,Short,Normal,Low,Short,Line,Line,4
+2D 1M,2,Trend,High,Short,Normal,High,Short,Line,Line,2
+2D 1M,2,Trend,High,Short,Normal,Low,Short,Line,Line,10
